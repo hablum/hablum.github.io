@@ -1,8 +1,5 @@
 [My Github Profile](https://github.com/hablum "Hassib's Github profile!")
 
-# Table of Contents 
-
-
 
 # Activities and Modules completed
 [Here are my Khan Academy projects](https://www.khanacademy.org/profile/hassibk/projects "My projects!")
@@ -65,7 +62,7 @@ I completed the tutorial on Git-It which taught some things about branching, mer
 
 # Learning experiences as a programmer
 
-I learned alot of important things in ICS4U this year. Something very important is that you should always ask for help when you need it. That way, you'll learn how to solve your problem and can use that knowledge to help you in future projects. 
+I learned alot of important things in ICS4U this year. Something very important is that you should always ask for help when you need it. That way, you'll learn how to solve your problem and can use that knowledge to help you in future projects. It's also important to make sure your code is clear and easy to understand with the way you format things. Finally, it helps if you go over instructions for challenges and other assignments slowly so that you don't miss any important details. This has happened to me several times because I read through the instructions too quickly
 
 # Intentions for the future
 
@@ -73,3 +70,8 @@ I learned alot of important things in ICS4U this year. Something very important 
 * Continuing to work on my Github profile and uploading code I make and have made will also be beneficial. I think this way because all my code will be in one place to view. For example, if I'm applying for a job or for a school after high school then I can use my profile to display my code. I didn't like Github very much at first, but now it's become a very useful tool that I will use in the future.
 * I want to pursue a degree in Computer Science for my post-secondary education and I'll do that by taking the necessary courses in high school.
 * I want to learn more about making webpages interactive because I wasn't able to get through that module on Khan Academy.
+
+
+# FreeCodeCamp portfolio 
+
+For this aspect, I want to continue to improve my competency in Javascript and I think a great way of doing that would be to work on Javascript Algorithms and Data Structures. It has lots of things we did earlier on in JS which will help refresh my memory on things we haven't done in some time and somethings I need to practise. What's most important is some things that I haven't learned yet in JS that will open my eyes to some new things that I can do in JS.
