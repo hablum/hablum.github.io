@@ -71,6 +71,17 @@ I learned alot of important things in ICS4U this year. Something very important 
 * I want to pursue a degree in Computer Science for my post-secondary education and I'll do that by taking the necessary courses in high school.
 * I want to learn more about making webpages interactive because I wasn't able to get through that module on Khan Academy.
 
+# Data
+
+Mr. O taught us how important Data types are and how they are used for example lists.
+
+List(x, y) L= [n1, n2, n3..., ny]
+
+Ordered sets oset(x, y)O=[n1, n2,.. ny]
+
+Multiset Mset(x, y)m=[n1, n2... ny]
+
+Sets (x, y)s=(n1, n2.. ny)
 
 # FreeCodeCamp portfolio 
 
