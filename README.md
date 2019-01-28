@@ -1,5 +1,9 @@
 [My Github Profile](https://github.com/hablum "Hassib's Github profile!")
 
+# Table of Contents 
+
+
+
 # Activities and Modules completed
 [Here are my Khan Academy projects](https://www.khanacademy.org/profile/hassibk/projects "My projects!")
 
@@ -38,9 +42,11 @@ I also learned about Arduino boards, the Nano ones in particular. My team would 
 
 I began but didn't finish the Making Webpages Interactive module on Khan Academy. I didn't finish it but I really liked the idea of making webpages interactive through code and creating things that provide an interactive experience. 
 
-## 7. Git
+## 7. Git-it workflow
 
-When we began using Gituhb, we did a series of tutorials explaining 
+I completed the tutorial on Git-It which taught some things about branching, merging pull requests and other things. This was important for my workflow because it showed me ways to efficiently get things done.
+
+![alt text](https://raw.githubusercontent.com/jlord/git-it/master/guide-ss.png)
 
 # Languages I've learned
 
@@ -59,7 +65,7 @@ When we began using Gituhb, we did a series of tutorials explaining
 
 # Learning experiences as a programmer
 
-* 
+I learned alot of important things in ICS4U this year. Something very important is that you should always ask for help when you need it. That way, you'll learn how to solve your problem and can use that knowledge to help you in future projects. 
 
 # Intentions for the future
 
